@@ -1,2 +1,2 @@
-# AI-lab1-maximin
+# AI-lab1-minimax
 Tic-Tac-Toe with AI using minimax algorithm
